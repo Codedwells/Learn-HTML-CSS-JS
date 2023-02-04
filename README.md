@@ -14,7 +14,7 @@ We built a simple **nav-bar** as a of demonstrating the basic use of HTML and CS
 
 <hr>
 
-<div style="text-align:center;">
+<div style="display:flex;flex-direction:column;align-items:center;">
     <h3>Our leads</h3>
     <p>Abel Misiocha <a href="https://github.com/Codedwells">GitHub</a></p>
     <p>Cliff Omollo <a href="https://github.com/OsegoTech">GitHub</a></p>
