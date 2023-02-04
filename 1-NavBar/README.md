@@ -153,3 +153,14 @@ main h3{
 
 ### This is what we were able to come-up with.
 ![Nav-bar](images/navbar.png)
+
+&nbsp;  
+&nbsp;  
+
+<hr>
+
+<div style="display:flex;flex-direction:column;align-items:center;">
+    <h3>Speakers</h3>
+    <p>Cliff Omollo <a href="https://github.com/OsegoTech">GitHub</a></p>
+    <p>Abel Misiocha <a href="https://github.com/Codedwells">GitHub</a></p>
+</div>
