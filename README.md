@@ -20,6 +20,98 @@ We also made the cards responsive using some media queries.
 
 <hr>
 
+## Meet-UP 3 Intro to JavaScript
+**Friday Feb 10th 2023**\
+During this session we introduced the basics of JavaScript. Some base concepts were\
+covered. Some concepts covered include;
+* Naming convension i.e camelCase
+* Variables declaration using diffrent key words.
+    ```js
+    // Varibles
+    var myName = 'John';
+    let location = 'Nairobi';
+    const career = 'Web development';
+    ```
+* Functions
+  ```js
+    function sayHello() {
+	    console.log('Hello world!!!');
+    }
+
+    sayHello(); // Hello world!!!
+
+    // ES6 Arrow functions
+    const sayHi = () => {
+	    console.log('Hi World!!!');
+    };
+
+    sayHi(); // Hi World!!!
+  ```
+
+* Conditional statements
+  ```js
+    // If statement
+    if (1 < 2) {
+	    console.log('Less than two!!');
+    }
+
+    // if else statement
+    if (6 > 2) {
+	    console.log('Greater than two!!!');
+    } else {
+	    console.log('Less than two!!!');
+    }
+
+    // else if statements
+    if (4 > 9) {
+	    console.log('less than nine');
+    } else if (4 < 9) {
+	    console.log('Less than nine');
+    } else {
+	    console.log('Does not meet the  condition');
+    }
+  ```
+
+* Looooops
+  ```js
+    // for loop
+    for (let i = 0; i < 10; i++) {
+	    console.log(i);
+    }
+
+    // While loop
+    let j = 1;
+    while (j < 10) {
+	    console.log(j);
+	    j++;
+    }
+  ```
+
+We wrapped the day up by creating a  function to find the sum of\
+all even numbers between 1 and 10;
+
+```js
+function addEvenNumbersBetween1and10() {
+	let number = 1;
+	let sum = 0;
+
+	while (number < 11) {
+		if (number % 2 == 0) {
+			sum += number;
+		}
+		number++;
+	}
+	console.log(sum); // 30
+}
+
+addEvenNumbersBetween1and10();
+```
+
+### The source code is [here](./3-Intro-js/)
+
+
+<hr>
+
 &nbsp;
 &nbsp;
 
