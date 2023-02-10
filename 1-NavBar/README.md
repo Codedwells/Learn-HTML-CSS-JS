@@ -1,5 +1,5 @@
 # Web Track learning project
-## Meet-up 1  Nav-Bar  ---- To see Preview press **Crtl + V** ----
+## Meet-up 1  Nav-Bar
 
 Hyper Text Markup Language (**HTML**)  and Cascading Style Sheet (**CSS**)
 

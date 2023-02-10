@@ -9,8 +9,19 @@ We built a simple **nav-bar** as a of demonstrating the basic use of HTML and CS
 ### The source code is [here](./1-NavBar/)
 ![NavBar](1-NavBar/images/navbar.png)
 
-&nbsp;  
-&nbsp;  
+
+## Meet-Up 2 Cards
+**Tuesday Feb 8rd 2023** \
+During this session we were able to  make cards to futher cement the concepts of flexbox.\
+We also made the cards responsive using some media queries.
+
+### The source code is [here](./2-modal-cards/)
+![NavBar](2-modal-cards/images/cards.png)
+
+<hr>
+
+&nbsp;
+&nbsp;
 
 <hr>
 
