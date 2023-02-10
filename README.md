@@ -6,8 +6,8 @@ We built a simple **nav-bar** as a of demonstrating the basic use of HTML and CS
 
 <hr>
 
-### The source code is [here](./1-NavBar/)
-![NavBar](1-NavBar/images/navbar.png)
+### The source code is [here]('https://github.com/Codedwells/Learn-HTML-CSS-JS/tree/master/1-NavBar')
+![NavBar](./2-modal-cards/images/nav.png)
 
 
 ## Meet-Up 2 Cards
@@ -15,7 +15,7 @@ We built a simple **nav-bar** as a of demonstrating the basic use of HTML and CS
 During this session we were able to  make cards to futher cement the concepts of flexbox.\
 We also made the cards responsive using some media queries.
 
-### The source code is [here](./2-modal-cards/)
+### The source code is [here](./)
 ![NavBar](2-modal-cards/images/cards.png)
 
 <hr>
