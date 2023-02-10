@@ -7,7 +7,7 @@ We built a simple **nav-bar** as a of demonstrating the basic use of HTML and CS
 <hr>
 
 ### The source code is [here]('https://github.com/Codedwells/Learn-HTML-CSS-JS/tree/master/1-NavBar')
-![NavBar](./2-modal-cards/images/nav.png)
+![NavBar](./staging/images/nav.png)
 
 
 ## Meet-Up 2 Cards
@@ -16,7 +16,7 @@ During this session we were able to  make cards to futher cement the concepts of
 We also made the cards responsive using some media queries.
 
 ### The source code is [here](./)
-![NavBar](2-modal-cards/images/cards.png)
+![NavBar](./staging/images/cards.png)
 
 <hr>
 
