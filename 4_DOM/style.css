@@ -1,0 +1,30 @@
+*{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 500;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.beginning{
+    text-align: center;
+    padding: 4px;
+}
+
+#content{
+    margin-top: 2rem;
+    padding: 0.5rem;
+    font-size: 1.2em;
+    cursor: pointer;
+}
+
+#languages{
+    width: 30%;
+    margin: auto;
+    list-style: none;
+}
+
+#languages li:hover{
+    color: seagreen;
+}
+

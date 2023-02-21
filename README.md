@@ -112,6 +112,50 @@ addEvenNumbersBetween1and10();
 
 <hr>
 
+
+
+## Meet-UP 3 Intro to JavaScript
+**Friday Feb 17th 2023**\
+During this session we were introduced to the DOM.** Document Object Model**.\
+We explored basic **DOM manipulation**  and DOM events.
+
+### The source code is [here](./4-DOM/)
+![DOM](2-modal-cards/images/cards.png)
+
+<hr>
+
+## Meet-UP 4 JavaScript
+**Friday Feb 17th 2023**\
+During this session we had a recap of the what some basic JavaScript concepts.** Document Object Model**.\
+We also explored more **DOM manipulation**  and DOM events.
+
+### FizzBuzz
+We started the recap by making the common fizzBuzz algorithm.
+
+```js
+  const fizzBuzz = () => {
+	for (let i = 1; i <= 20; i++) {
+		if (i % 2 === 0) {
+			console.log(i, 'Fizz');
+		} else {
+			console.log(i, 'Buzz');
+		}
+	}
+};
+fizzBuzz();
+```
+
+<hr>
+
+## Meet-UP 5 JavaScript DOM events
+**Friday Feb 17th 2023**\
+During this session we had a recap of the what some basic JavaScript concepts.** Document Object Model**.\
+We also explored more **DOM manipulation**  and DOM events.
+
+
+
+<hr>
+
 &nbsp;
 &nbsp;
 
@@ -122,3 +166,4 @@ addEvenNumbersBetween1and10();
     <p>Abel Misiocha <a href="https://github.com/Codedwells">GitHub</a></p>
     <p>Cliff Omollo <a href="https://github.com/OsegoTech">GitHub</a></p>
 </div>
+
