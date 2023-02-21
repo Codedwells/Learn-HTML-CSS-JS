@@ -6,8 +6,8 @@ We built a simple **nav-bar** as a of demonstrating the basic use of HTML and CS
 
 <hr>
 
-### The source code is [here](./1-NavBar/)
-![NavBar](1-NavBar/images/navbar.png)
+### The source code is [here](./1_NavBar/)
+![NavBar](1_NavBar/images/navbar.png)
 
 
 ## Meet-Up 2 Cards
@@ -15,8 +15,8 @@ We built a simple **nav-bar** as a of demonstrating the basic use of HTML and CS
 During this session we were able to  make cards to futher cement the concepts of flexbox.\
 We also made the cards responsive using some media queries.
 
-### The source code is [here](./2-modal-cards/)
-![NavBar](2-modal-cards/images/cards.png)
+### The source code is [here](./2_modal_cards/)
+![NavBar](2_modal_cards/images/cards.png)
 
 <hr>
 
@@ -107,7 +107,7 @@ function addEvenNumbersBetween1and10() {
 addEvenNumbersBetween1and10();
 ```
 
-### The source code is [here](./3-Intro-js/)
+### The source code is [here](./3_Intro_js/)
 
 
 <hr>
@@ -119,8 +119,7 @@ addEvenNumbersBetween1and10();
 During this session we were introduced to the DOM.** Document Object Model**.\
 We explored basic **DOM manipulation**  and DOM events.
 
-### The source code is [here](./4-DOM/)
-![DOM](2-modal-cards/images/cards.png)
+### The source code is [here](./4_DOM/)
 
 <hr>
 
@@ -149,8 +148,11 @@ fizzBuzz();
 
 ## Meet-UP 5 JavaScript DOM events
 **Friday Feb 17th 2023**\
-During this session we had a recap of the what some basic JavaScript concepts.** Document Object Model**.\
-We also explored more **DOM manipulation**  and DOM events.
+During this session we had learnt Click events.We created a counter app\
+and a number guessing game.
+
+### The source code is [here](./5_DOM_Events/)
+![Events](./5_DOM_Events/screenshots/m5.png)
 
 
 
